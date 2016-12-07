@@ -1,0 +1,26 @@
+{
+  "name": "cd-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://RobVanGroenewoud@github.com/RobVanGroenewoud/cd-app.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RobVanGroenewoud/cd-app/issues"
+  },
+  "homepage": "https://github.com/RobVanGroenewoud/cd-app#readme",
+  "devDependencies": {
+    "eslint": "^3.11.1",
+    "jest": "^17.0.3"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
